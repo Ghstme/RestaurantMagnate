@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemain\\script\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|d:\\1restaurantmagnate\\restaurant_magnate\\assets\\gamemain\\script\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemain\\script\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|D:\\Project Restaurant_Magnate\\Restaurant_Magnate\\Restaurant_Magnate\\assets\\gamemain\\script\\playervisual1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemain\\script\\playervisual1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,21 +34,7 @@
               "RelativeToolTip": "Assets\\GameMain\\Script\\GameInput.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T17:06:34.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MovePlayer.cs",
-              "DocumentMoniker": "D:\\1RestaurantMagnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\MovePlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\GameMain\\Script\\MovePlayer.cs",
-              "ToolTip": "D:\\1RestaurantMagnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\MovePlayer.cs",
-              "RelativeToolTip": "Assets\\GameMain\\Script\\MovePlayer.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T11:37:29.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T11:40:53.205Z"
             },
             {
               "$type": "Document",
