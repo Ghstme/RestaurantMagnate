@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project Restaurant_Magnate\\Restaurant_Magnate\\Restaurant_Magnate\\",
+  "WorkspaceRootPath": "D:\\1RestaurantMagnate\\Restaurant_Magnate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|d:\\project restaurant_magnate\\restaurant_magnate\\restaurant_magnate\\assets\\gamemain\\script\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|d:\\1restaurantmagnate\\restaurant_magnate\\assets\\gamemain\\script\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemain\\script\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|d:\\1restaurantmagnate\\restaurant_magnate\\assets\\gamemain\\script\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemain\\script\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|d:\\project restaurant_magnate\\restaurant_magnate\\restaurant_magnate\\assets\\gamemain\\script\\playervisual1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|D:\\Project Restaurant_Magnate\\Restaurant_Magnate\\Restaurant_Magnate\\assets\\gamemain\\script\\playervisual1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF01C9A6-5DE2-9752-E226-58099EE2787E}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemain\\script\\playervisual1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +22,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerVisual1.cs",
-              "DocumentMoniker": "D:\\Project Restaurant_Magnate\\Restaurant_Magnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\PlayerVisual1.cs",
-              "RelativeDocumentMoniker": "Assets\\GameMain\\Script\\PlayerVisual1.cs",
-              "ToolTip": "D:\\Project Restaurant_Magnate\\Restaurant_Magnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\PlayerVisual1.cs",
-              "RelativeToolTip": "Assets\\GameMain\\Script\\PlayerVisual1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "D:\\1RestaurantMagnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\GameMain\\Script\\GameInput.cs",
+              "ToolTip": "D:\\1RestaurantMagnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\GameInput.cs",
+              "RelativeToolTip": "Assets\\GameMain\\Script\\GameInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T11:40:53.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T11:40:53.205Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MovePlayer.cs",
-              "DocumentMoniker": "D:\\Project Restaurant_Magnate\\Restaurant_Magnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\MovePlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\GameMain\\Script\\MovePlayer.cs",
-              "ToolTip": "D:\\Project Restaurant_Magnate\\Restaurant_Magnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\MovePlayer.cs",
-              "RelativeToolTip": "Assets\\GameMain\\Script\\MovePlayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "PlayerVisual.cs",
+              "DocumentMoniker": "D:\\1RestaurantMagnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\PlayerVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\GameMain\\Script\\PlayerVisual.cs",
+              "ToolTip": "D:\\1RestaurantMagnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\PlayerVisual.cs",
+              "RelativeToolTip": "Assets\\GameMain\\Script\\PlayerVisual.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T11:37:29.539Z",
+              "WhenOpened": "2024-12-03T17:23:36.228Z",
               "EditorCaption": ""
             }
           ]
