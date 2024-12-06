@@ -17,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -29,7 +29,19 @@
               "RelativeToolTip": "..\\..\\Project Restaurant_Magnate\\Restaurant_Magnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\PlayerVisual1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T11:40:53.205Z"
+              "WhenOpened": "2024-12-03T17:06:34.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovePlayer.cs",
+              "DocumentMoniker": "D:\\1RestaurantMagnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\MovePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\GameMain\\Script\\MovePlayer.cs",
+              "ToolTip": "D:\\1RestaurantMagnate\\Restaurant_Magnate\\Assets\\GameMain\\Script\\MovePlayer.cs",
+              "RelativeToolTip": "Assets\\GameMain\\Script\\MovePlayer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:37:29.539Z"
             },
             {
               "$type": "Document",
@@ -41,7 +53,7 @@
               "RelativeToolTip": "Assets\\GameMain\\Script\\MovePlayer.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T11:37:29.539Z",
+              "WhenOpened": "2024-12-03T17:23:36.228Z",
               "EditorCaption": ""
             }
           ]
