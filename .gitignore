@@ -46,7 +46,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-*.dwlt
+*
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -61,6 +61,9 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
+*.dwlt
+*.asset
+*.log
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -71,3 +74,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+*.dwlt
+*.json
+*.suo
